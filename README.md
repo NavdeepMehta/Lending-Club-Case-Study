@@ -18,11 +18,11 @@
 
 ### Project Background
 
-> This company is the largest **online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures**. Borrowers can easily access lower interest rate loans through a fast online interface. Like most other lending companies, lending loans to **‘risky’** applicants is the largest source of financial loss (called credit loss). **Credit loss** is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders. In this case, the customers labelled as 'charged-off' are the 'defaulters'.
+> the company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.  The company can utilise this knowledge for its portfolio and risk assessment. 
 
 ### Project Statement
 
-> Find the driving factors which lead to the defaulted loans which are major source of loss for the company.
+> Identify these risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss
 
 ### Data Set
 
@@ -55,7 +55,7 @@
 6. Borrower Numbers Show Seasonal and Yearly Trends: While borrower numbers have increased over time, seasonal patterns (e.g., higher numbers in December and November) should be accounted for when analyzing loan issuance trends to avoid misinterpretation.
 
 - Final Thoughts:
-These insights highlight key trends in the dataset, such as loan amount, income, loan tenure, and employment length as important factors influencing loan repayment behavior. However, some of the patterns suggest that loan defaults are driven by a combination of factors, including DTI ratios, income levels, and loan purposes. Hence, it's important to approach the analysis with an understanding that these relationships may be complex, and further exploration of additional features (such as credit scores, loan-to-income ratios, or payment history) could provide deeper insights
+> These insights highlight key trends in the dataset, such as loan amount, income, loan tenure, and employment length as important factors influencing loan repayment behavior. However, some of the patterns suggest that loan defaults are driven by a combination of factors, including DTI ratios, income levels, and loan purposes. Hence, it's important to approach the analysis with an understanding that these relationships may be complex, and further exploration of additional features (such as credit scores, loan-to-income ratios, or payment history) could provide deeper insights
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
