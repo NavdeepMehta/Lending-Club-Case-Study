@@ -14,7 +14,7 @@
 ## General Information
 - ### Project Information
 
-> The project is a data science project that uses the lending club data set to predict whether a loan will be defaulted or not.
+> In this case study, you will use EDA to understand how consumer attributes and loan attributes influence the tendency of default.
 
 ### Project Background
 
@@ -71,9 +71,6 @@ These insights highlight key trends in the dataset, such as loan amount, income,
 
 ## Acknowledgements
 This project was inspired by UpGrad IITB Programme as a case study for the Machine Learning and Artificial Intelligence course.
-
-## Contact
-Created by [@umraosr] - feel free to contact me!
 
 <!-- Optional -->
 <!-- ## License -->
